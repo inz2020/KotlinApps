@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvmApp</string>
+    <string name="nameEmployee">Votre nom</string>
+    <string name="addressEmployee">Votre adresse</string>
+    <string name="firstLetter">Z</string>
+    <string name="cName">Nom</string>
+</resources>
